@@ -1,0 +1,22 @@
+C:\Users\SUVANKAR\Desktop\C#\New folder\Resturant_Billing_App\Resturant_Billing_App\bin\Debug\Resturant_Billing_App.exe.config
+C:\Users\SUVANKAR\Desktop\C#\New folder\Resturant_Billing_App\Resturant_Billing_App\bin\Debug\Resturant_Billing_App.exe
+C:\Users\SUVANKAR\Desktop\C#\New folder\Resturant_Billing_App\Resturant_Billing_App\bin\Debug\Resturant_Billing_App.pdb
+C:\Users\SUVANKAR\Desktop\C#\New folder\Resturant_Billing_App\Resturant_Billing_App\obj\Debug\Resturant_Billing_App.csproj.AssemblyReference.cache
+C:\Users\SUVANKAR\Desktop\C#\New folder\Resturant_Billing_App\Resturant_Billing_App\obj\Debug\Resturant_Billing_App.Properties.Resources.resources
+C:\Users\SUVANKAR\Desktop\C#\New folder\Resturant_Billing_App\Resturant_Billing_App\obj\Debug\Resturant_Billing_App.csproj.GenerateResource.cache
+C:\Users\SUVANKAR\Desktop\C#\New folder\Resturant_Billing_App\Resturant_Billing_App\obj\Debug\Resturant_Billing_App.csproj.CoreCompileInputs.cache
+C:\Users\SUVANKAR\Desktop\C#\New folder\Resturant_Billing_App\Resturant_Billing_App\obj\Debug\Resturant_Billing_App.exe
+C:\Users\SUVANKAR\Desktop\C#\New folder\Resturant_Billing_App\Resturant_Billing_App\obj\Debug\Resturant_Billing_App.pdb
+C:\Users\SUVANKAR\Desktop\C#\New folder\Resturant_Billing_App\Resturant_Billing_App\obj\Debug\Resturant_Billing_App.BillingApp.resources
+C:\Users\SUVANKAR\Desktop\C#\Resturant_Billing_App\Resturant_Billing_App\bin\Debug\Resturant_Billing_App.exe.config
+C:\Users\SUVANKAR\Desktop\C#\Resturant_Billing_App\Resturant_Billing_App\bin\Debug\Resturant_Billing_App.exe
+C:\Users\SUVANKAR\Desktop\C#\Resturant_Billing_App\Resturant_Billing_App\bin\Debug\Resturant_Billing_App.pdb
+C:\Users\SUVANKAR\Desktop\C#\Resturant_Billing_App\Resturant_Billing_App\obj\Debug\Resturant_Billing_App.csproj.AssemblyReference.cache
+C:\Users\SUVANKAR\Desktop\C#\Resturant_Billing_App\Resturant_Billing_App\obj\Debug\Resturant_Billing_App.Properties.Resources.resources
+C:\Users\SUVANKAR\Desktop\C#\Resturant_Billing_App\Resturant_Billing_App\obj\Debug\Resturant_Billing_App.BillingApp.resources
+C:\Users\SUVANKAR\Desktop\C#\Resturant_Billing_App\Resturant_Billing_App\obj\Debug\Resturant_Billing_App.csproj.GenerateResource.cache
+C:\Users\SUVANKAR\Desktop\C#\Resturant_Billing_App\Resturant_Billing_App\obj\Debug\Resturant_Billing_App.csproj.CoreCompileInputs.cache
+C:\Users\SUVANKAR\Desktop\C#\Resturant_Billing_App\Resturant_Billing_App\obj\Debug\Resturant_Billing_App.exe
+C:\Users\SUVANKAR\Desktop\C#\Resturant_Billing_App\Resturant_Billing_App\obj\Debug\Resturant_Billing_App.pdb
+C:\Users\SUVANKAR\Desktop\C#\Resturant_Billing_App\Resturant_Billing_App\obj\Debug\Resturant_Billing_App.ManageItems.resources
+C:\Users\SUVANKAR\Desktop\C#\Resturant_Billing_App\Resturant_Billing_App\obj\Debug\Resturant_Billing_App.SellHistory.resources
